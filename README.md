@@ -2,13 +2,13 @@
 
 I'm Safia (rhymes with Mafia). I spend a lot of my time on GitHub.
 
-By day, I contribute to the [Blazor](https://blazor.net) as part of my role at Microsoft. By night, I help maintain the [nteract](https://nteract.io) ecosystem.
+By day, I help build the [Blazor](https://blazor.net) framework as part of my role at Microsoft. By night, I help maintain the [nteract](https://nteract.io) ecosystem.
 
 As you can see, I love the creativity and collaboration that comes with working in open source!
 
 - 💬 Ask me about: Jupyter, nteract, Blazor, RxJS, Redux, .NET
 - 📫 How to reach me: safia [at] safia [dot] rocks
-- 😄 Pronouns: she/her/ers
+- 😄 Pronouns: she/her/hers
 
 <!--
 **captainsafia/captainsafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
