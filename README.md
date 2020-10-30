@@ -6,7 +6,7 @@ By day, I help build the [Blazor](https://blazor.net) framework as part of my ro
 
 As you can see, I love the creativity and collaboration that comes with working in open source!
 
-- 💬 Ask me about: Jupyter, nteract, Blazor, RxJS, Redux, .NET
+- 💬 Ask me about: Jupyter, nteract, Blazor, RxJS, Redux, ASP.NET Core
 - 📫 How to reach me: safia [at] safia [dot] rocks
 - 😄 Pronouns: she/her/hers
 
