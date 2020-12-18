@@ -2,7 +2,7 @@
 
 I'm Safia (rhymes with Mafia). I spend a lot of my time on GitHub.
 
-By day, I help build the [Blazor](https://blazor.net) framework as part of my role at Microsoft. By night, I help maintain the [nteract](https://nteract.io) ecosystem.
+By day, I work on the open-source ASP.NET Core project at Microsoft. By night, I help maintain the [nteract](https://nteract.io) ecosystem.
 
 As you can see, I love the creativity and collaboration that comes with working in open source!
 
