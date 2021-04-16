@@ -1,10 +1,12 @@
 ### Howdy there!
 
-I'm Safia (rhymes with Mafia). I spend a lot of my time on GitHub.
+![Safia's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainsafia&theme=prussian&show_icons=true)
 
-By day, I work on the open-source ASP.NET Core project at Microsoft. By night, I help maintain the [nteract](https://nteract.io) ecosystem.
+I'm Safia (rhymes with Mafia).
 
-As you can see, I love the creativity and collaboration that comes with working in open source!
+By day, I work on the open-source ASP.NET Core project at Microsoft.
+
+By night, I help maintain the [nteract](https://nteract.io) ecosystem.
 
 - 💬 Ask me about: Jupyter, nteract, Blazor, RxJS, Redux, ASP.NET Core
 - 📫 How to reach me: safia [at] safia [dot] rocks
