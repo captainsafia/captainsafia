@@ -1,8 +1,4 @@
-### Howdy there!
-
-![Safia's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainsafia&theme=prussian&show_icons=true)
-
-I'm Safia (rhymes with Mafia).
+## I'm Safia (rhymes with Mafia).
 
 By day, I work on the open-source ASP.NET Core project at Microsoft.
 
@@ -11,6 +7,9 @@ By night, I help maintain the [nteract](https://nteract.io) ecosystem.
 - 💬 Ask me about: Jupyter, nteract, Blazor, RxJS, Redux, ASP.NET Core
 - 📫 How to reach me: safia [at] safia [dot] rocks
 - 😄 Pronouns: she/her/hers
+
+
+![Safia's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainsafia&theme=prussian&show_icons=true)
 
 <!--
 **captainsafia/captainsafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
